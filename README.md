@@ -1,4 +1,4 @@
-# Taller #2 · Álbum de fotos con Express
+# Taller #3 · Álbum de fotos con Express
 
 API de un álbum de fotos desarrollada con Node.js y Express. Permite listar las fotos, consultar una por ID, crear nuevas entradas, actualizar campos y eliminar fotos. Los datos se guardan en memoria.
 
